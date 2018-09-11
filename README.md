@@ -1,4 +1,4 @@
-# Terminalizer
+# Terminalizer nodejs生成gif
 
 [![npm](https://img.shields.io/npm/v/terminalizer.svg)](https://www.npmjs.com/package/terminalizer)
 [![npm](https://img.shields.io/npm/l/terminalizer.svg)](https://github.com/faressoft/terminalizer/blob/master/LICENSE)
